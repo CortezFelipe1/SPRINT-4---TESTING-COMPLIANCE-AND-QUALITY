@@ -18,7 +18,9 @@ A entrega focou na validação dos seguintes itens do *Product Backlog*:
 * Chat de dúvidas | (3) 
 * Modo escuro/claro | (1) 
 * Recuperar senha | (1) 
-* Criar conta com e-mail/telefone | (5) 
+* Criar conta com e-mail/telefone | (5)
+<img width="1319" height="703" alt="image" src="https://github.com/user-attachments/assets/c1a6efbd-f696-4456-8f36-6f5d73aadb15" />
+
 
 ---
 
@@ -30,6 +32,8 @@ O Plano de Testes de Validação de Sistema foi elaborado no Azure Boards. Cada 
 
 🔗 **LINK COMPLETO:**
 `https://dev.azure.com/SPRINT-QA-XP/SPRINT-QA-XP`
+<img width="1296" height="625" alt="image" src="https://github.com/user-attachments/assets/7d45b3c8-87a0-42cb-b043-6ee7c48d64f5" />
+
 
 ### 2. Checklists de Validação Cobertos
 
@@ -51,6 +55,7 @@ Os testes manuais cobriram o seguinte escopo de validação funcional:
 * Validar perguntas que não são sobre ações
 * Validar tela de perfil
 * Validar login com senha inválida
+<img width="1324" height="716" alt="image" src="https://github.com/user-attachments/assets/b299846a-a04e-46e2-9f09-662ed9bc18e9" />
 
 ---
 

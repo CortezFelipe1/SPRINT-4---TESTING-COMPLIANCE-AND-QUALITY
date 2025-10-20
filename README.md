@@ -60,9 +60,9 @@ A validação do sistema foi realizada através de automação para garantir a e
 
 ### 1. Ferramenta e Foco
 
-* **Ferramenta Utilizada:** **[PREENCHER: NOME DA FERRAMENTA DE AUTOMAÇÃO USADA ]**
-* **Foco da Automação:** **[PREENCHER: Tipo de teste ]**
-
+* **Ferramenta Utilizada:** **Pytest (com Flask Test Client)**
+* **Foco da Automação:** **Testes de Unidade e Integração de API (Backend), cobrindo rotas de autenticação, validação de segurança (input sanitization) e acesso a recursos protegidos.**
+* **Total de Casos Automatizados** **6**
 ### 2. Link do Vídeo de Configuração e Execução
 
 O vídeo a seguir demonstra o processo de configuração da ferramenta, a execução dos casos de testes automatizados e a visualização dos resultados:

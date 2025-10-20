@@ -10,15 +10,15 @@ Este repositório contém a entrega completa da avaliação de Testes, Complianc
 
 A entrega focou na validação dos seguintes itens do *Product Backlog*:
 
-| Onboarding guiado com questionário de suitability | (1) |
-| Timeline de eventos | (1) |
-| Importar saldos e posições automaticamente | (1) |
-| Filtros avançados | (2) |
-| Excluir conta e dados (LGPD) | (1) |
-| Chat de dúvidas | (3) |
-| Modo escuro/claro | (1) |
-| Recuperar senha | (1) |
-| Criar conta com e-mail/telefone | (5) |
+* Onboarding guiado com questionário de suitability | (1) 
+* Timeline de eventos | (1) 
+* Importar saldos e posições automaticamente | (1) 
+* Filtros avançados | (2) 
+* Excluir conta e dados (LGPD) | (1) 
+* Chat de dúvidas | (3) 
+* Modo escuro/claro | (1) 
+* Recuperar senha | (1) 
+* Criar conta com e-mail/telefone | (5) 
 
 ---
 

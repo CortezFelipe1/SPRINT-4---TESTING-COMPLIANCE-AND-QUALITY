@@ -67,7 +67,7 @@ A validação do sistema foi realizada através de automação para garantir a e
 
 O vídeo a seguir demonstra o processo de configuração da ferramenta, a execução dos casos de testes automatizados e a visualização dos resultados:
 
-▶️ **LINK DO VÍDEO:** **[PREENCHER: COLOQUE AQUI O LINK DO VÍDEO (YouTube, Vimeo, etc.)]**
+▶️ **LINK DO VÍDEO:** **(https://youtu.be/mojwBSscu7o)**
 
 ## 👥 MEMBROS DA EQUIPE
 
